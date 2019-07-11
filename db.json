@@ -8,7 +8,7 @@
                         "merchant": "Warung Pekok",
                         "method": "CC",
                         "channel": "credit card",
-                        "amount": "Rp. 1.700.000",
+                        "amount": "Rp. 1.700.000"
                     },
                     {
                         "id": 2,
@@ -19,7 +19,7 @@
                         "merchant": "Warung Pekok",
                         "method": "CC",
                         "channel": "credit card",
-                        "amount": "Rp. 1.700.000",
+                        "amount": "Rp. 1.700.000"
                     },
                     {
                         "id": 3,
@@ -30,7 +30,7 @@
                         "merchant": "Warung Pekok",
                         "method": "CC",
                         "channel": "credit card",
-                        "amount": "Rp. 1.700.000",
+                        "amount": "Rp. 1.700.000"
                     },
                     {
                         "id": 4,
@@ -41,7 +41,7 @@
                         "merchant": "Warung Pekok",
                         "method": "CC",
                         "channel": "credit card",
-                        "amount": "Rp. 1.700.000",
+                        "amount": "Rp. 1.700.000"
                     },
                     {
                         "id": 5,
@@ -52,7 +52,7 @@
                         "merchant": "Warung Pekok",
                         "method": "CC",
                         "channel": "credit card",
-                        "amount": "Rp. 1.700.000",
+                        "amount": "Rp. 1.700.000"
                     },
                     {
                         "id": 6,
@@ -63,7 +63,7 @@
                         "merchant": "Warung Pekok",
                         "method": "CC",
                         "channel": "credit card",
-                        "amount": "Rp. 1.700.000",
+                        "amount": "Rp. 1.700.000"
                     },
                     {
                         "id": 7,
@@ -74,7 +74,7 @@
                         "merchant": "Warung Pekok",
                         "method": "CC",
                         "channel": "credit card",
-                        "amount": "Rp. 1.700.000",
+                        "amount": "Rp. 1.700.000"
                     },
                     {
                         "id": 8,
@@ -85,6 +85,6 @@
                         "merchant": "Warung Pekok",
                         "method": "CC",
                         "channel": "credit card",
-                        "amount": "Rp. 1.700.000",
+                        "amount": "Rp. 1.700.000"
                     }
                     ]}
